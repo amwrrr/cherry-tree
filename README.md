@@ -1,1 +1,1 @@
-# cherry-tree
+# CherryTree
